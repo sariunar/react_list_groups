@@ -1,3 +1,8 @@
+![image](https://github.com/sariunar/react_list_groups/assets/90380387/284699cd-174f-4f51-b4f4-a4f6ba7d8ba4)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
